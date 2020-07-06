@@ -1,0 +1,14 @@
+{
+	"websocket": [
+		"wss",
+		"ws-feed.pro.coinbase.com",
+	],
+	"rest": [
+		"https",
+		"api.pro.coinbase.com",
+	],
+	"fix": [
+		"tcp+ssl",
+		"fix.pro.coinbase.com:4198"
+	]
+}
