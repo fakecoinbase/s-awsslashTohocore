@@ -7,4 +7,4 @@ For generating smarter code.
 
 ### API docs are located [here](https://docs.pro.coinbase.com)
 
-Location: API/Coinbase
+Location: API/CoinbasePro
